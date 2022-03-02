@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x7Cbba2e74a578C958e88cC8C73Ed51B2D56eaf5a",
+  "SCAN_LINK": "https://etherscan.io/address/0x7cbba2e74a578c958e88cc8c73ed51b2d56eaf5a",
+  "NETWORK": {
+    "NAME": "Ethererum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Where's Kevin",
+  "SYMBOL": "FINDKEVIN",
+  "MAX_SUPPLY": 43,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 150000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/haradashi",
+  "SHOW_BACKGROUND":false
+}
